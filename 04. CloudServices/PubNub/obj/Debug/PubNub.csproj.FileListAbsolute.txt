@@ -1,0 +1,7 @@
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\PubNub\bin\Debug\PubNub.exe.config
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\PubNub\bin\Debug\PubNub.exe.config
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\PubNub\bin\Debug\PubNub.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\PubNub\bin\Debug\PubNub.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\PubNub\obj\Debug\PubNub.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\PubNub\obj\Debug\PubNub.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\PubNub\obj\Debug\PubNub.pdb

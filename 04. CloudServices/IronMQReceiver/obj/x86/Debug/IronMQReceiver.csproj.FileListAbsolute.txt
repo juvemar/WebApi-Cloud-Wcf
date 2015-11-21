@@ -1,0 +1,14 @@
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\bin\Debug\IronMQReceiver.exe
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\bin\Debug\IronMQReceiver.pdb
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\bin\Debug\iron_mq_dotnet.dll
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\obj\x86\Debug\IronMQReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\obj\x86\Debug\IronMQReceiver.exe
+C:\Users\Atanasov\Desktop\Web-Services-and-Cloud-master\Web-Services-and-Cloud-master\08. Cloud-Services\demos\IronMQ-Demo\IronMQReceiver\obj\x86\Debug\IronMQReceiver.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\obj\x86\Debug\IronMQReceiver.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\obj\x86\Debug\IronMQReceiver.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\bin\Debug\IronMQReceiver.exe
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\bin\Debug\IronMQReceiver.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\bin\Debug\iron_mq_dotnet.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\bin\Debug\Newtonsoft.Json.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\04. CloudServices\IronMQReceiver\obj\x86\Debug\IronMQReceiver.csprojResolveAssemblyReference.cache

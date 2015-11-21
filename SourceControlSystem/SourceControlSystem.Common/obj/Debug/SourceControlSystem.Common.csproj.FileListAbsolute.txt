@@ -1,0 +1,10 @@
+c:\users\atanasov\documents\visual studio 2015\Projects\SourceControlSystem\SourceControlSystem.Common\bin\Debug\SourceControlSystem.Common.dll
+c:\users\atanasov\documents\visual studio 2015\Projects\SourceControlSystem\SourceControlSystem.Common\bin\Debug\SourceControlSystem.Common.pdb
+c:\users\atanasov\documents\visual studio 2015\Projects\SourceControlSystem\SourceControlSystem.Common\obj\Debug\SourceControlSystem.Common.csprojResolveAssemblyReference.cache
+c:\users\atanasov\documents\visual studio 2015\Projects\SourceControlSystem\SourceControlSystem.Common\obj\Debug\SourceControlSystem.Common.dll
+c:\users\atanasov\documents\visual studio 2015\Projects\SourceControlSystem\SourceControlSystem.Common\obj\Debug\SourceControlSystem.Common.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\SourceControlSystem\SourceControlSystem.Common\bin\Debug\SourceControlSystem.Common.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\SourceControlSystem\SourceControlSystem.Common\bin\Debug\SourceControlSystem.Common.pdb
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\SourceControlSystem\SourceControlSystem.Common\obj\Debug\SourceControlSystem.Common.csprojResolveAssemblyReference.cache
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\SourceControlSystem\SourceControlSystem.Common\obj\Debug\SourceControlSystem.Common.dll
+D:\TelerikAcademy\Visual Studio 2013\Projects\WebApiCloud\SourceControlSystem\SourceControlSystem.Common\obj\Debug\SourceControlSystem.Common.pdb

@@ -1,0 +1,2 @@
+﻿<<%@ ServiceHost Service="ReturnSubstringFromString.StringCounter"
+    Language="C#" %>
